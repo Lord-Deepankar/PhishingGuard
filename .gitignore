@@ -8,6 +8,7 @@ firebase-debug.log*
 firebase-debug.*.log*
 
 README.md
+background.js
 # Firebase cache
 .firebase/
 
